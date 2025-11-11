@@ -1,7 +1,7 @@
 ---
 title: RISC-V异常处理机制
 date: 2025-11-11 09:38:10
-tags:
+tags: RISC-V
 description: 在RISC-V标准中，trap表示的是，由异常或者中断引起的控制权转移到陷阱处理程序的过程。
 ---
 

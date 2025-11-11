@@ -1,7 +1,7 @@
 ---
 title: riscv/arm simd软硬件架构对比
 date: 2025-11-10 17:47:39
-tags: 
+tags: SIMD
 description: riscv/arm linux vector support
 ---
 

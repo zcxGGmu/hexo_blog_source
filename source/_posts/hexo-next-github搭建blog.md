@@ -2,7 +2,7 @@
 title: hexo+next+github搭建blog
 date: 2025-11-10 15:51:26
 tags:
-  - 静态博客搭建
+  - 博客搭建
 description: >-
   使用GitHub page + hexo + NexT主题的搭建方式
 ---
